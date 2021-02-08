@@ -13,3 +13,6 @@
 
 # markdown tutorial
  [markdown link](https://guides.github.com/features/mastering-markdown/)
+ 
+# scss
+ [scss tips](https://gist.github.com/jareware/4738651)
